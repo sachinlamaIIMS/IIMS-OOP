@@ -1,31 +1,19 @@
-# Student Practice Questions Repository
+# Student Practice Questions
 
-This project contains practice questions and solutions organized inside the `src` folder.
+Inside the `src` folder, everything is separated by weeks like `Week1`, `Week2`, `Week3`, and so on.
 
-## Folder Structure
-
-Inside `src`, the files are arranged by week:
-
-- `Week2`
-- `Week3`
-- `Week4`
-- `Week5`
-
-Each week folder contains:
+Each week folder has:
 
 - the practice questions PDF for that week
-- Java solution files based on the corresponding question names
+- the Java solutions for those questions
 
-## How to Use
+The PDF files contain questions like Question 1, Question 2, and so on.
+The Java files inside the same week folder are the answers.
 
-1. Open the week folder you want to study.
-2. Read the practice questions PDF in that folder.
-3. Look for the Java file with the matching question name.
-4. Run or review the solution to understand the answer.
+For example:
 
-## Example
+- `Question1.java` is the solution for Question 1 in the PDF
+- `Question2.java` is the solution for Question 2 in the PDF
 
-If a week has `Question1.java`, `Question2.java`, and `Question3.java`, the solutions are written to match those questions from the practice PDF in the same folder.
-
-This structure makes it easy to find each question and its solution together.
+So, if you want to study a week, open that week folder, read the PDF, and then check the matching Java file for the solution.
 
