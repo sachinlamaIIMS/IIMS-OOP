@@ -1,6 +1,6 @@
 package Week5.Thurs;
 
-public class Main {
+public class ClassObjectExample {
 
     public static void main(String[] args) {
         Student s1 = new Student();
